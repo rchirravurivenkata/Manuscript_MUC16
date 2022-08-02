@@ -1,0 +1,169 @@
+Sample Id	SMAD4: Putative copy-number alterations from GISTIC	SMAD4: mRNA expression (RNA Seq V2 RSEM)	Copy Number Alterations
+TCGA-2J-AAB8-01	Deep Deletion	862.9847	SMAD4: Deep Deletion
+TCGA-2J-AABO-01	Deep Deletion	1028.8462	SMAD4: Deep Deletion
+TCGA-2J-AABU-01	Deep Deletion	1044.7598	SMAD4: Deep Deletion
+TCGA-2L-AAQE-01	Deep Deletion	353.4708	SMAD4: Deep Deletion
+TCGA-2L-AAQI-01	Deep Deletion	881.3355	SMAD4: Deep Deletion
+TCGA-3A-A9IB-01	Deep Deletion	722.4912	SMAD4: Deep Deletion
+TCGA-3A-A9IU-01	Deep Deletion	601.9332	SMAD4: Deep Deletion
+TCGA-3A-A9IZ-01	Deep Deletion	825.3606	SMAD4: Deep Deletion
+TCGA-3A-A9J0-01	Deep Deletion	414.9142	SMAD4: Deep Deletion
+TCGA-F2-6879-01	Deep Deletion	505.6714	SMAD4: Deep Deletion
+TCGA-F2-A44G-01	Deep Deletion	545.2539	SMAD4: Deep Deletion
+TCGA-FB-AAPZ-01	Deep Deletion	725.677	SMAD4: Deep Deletion
+TCGA-H8-A6C1-01	Deep Deletion	707.4353	SMAD4: Deep Deletion
+TCGA-HV-A5A6-01	Deep Deletion	634.9036	SMAD4: Deep Deletion
+TCGA-HV-A7OL-01	Deep Deletion	280.9612	SMAD4: Deep Deletion
+TCGA-IB-7886-01	Deep Deletion	796.5915	SMAD4: Deep Deletion
+TCGA-IB-7887-01	Deep Deletion	510.1165	SMAD4: Deep Deletion
+TCGA-IB-7891-01	Deep Deletion	1583.1543	SMAD4: Deep Deletion
+TCGA-IB-7893-01	Deep Deletion	1360.9858	SMAD4: Deep Deletion
+TCGA-IB-A7M4-01	Deep Deletion	610.7025	SMAD4: Deep Deletion
+TCGA-L1-A7W4-01	Deep Deletion	252.4575	SMAD4: Deep Deletion
+TCGA-M8-A5N4-01	Deep Deletion	451.4647	SMAD4: Deep Deletion
+TCGA-OE-A75W-01	Deep Deletion	359.4836	SMAD4: Deep Deletion
+TCGA-Q3-AA2A-01	Deep Deletion	291.2761	SMAD4: Deep Deletion
+TCGA-S4-A8RO-01	Deep Deletion	327.2835	SMAD4: Deep Deletion
+TCGA-2J-AAB4-01	Shallow Deletion	941.3847	SMAD4: Shallow Deletion
+TCGA-2J-AAB6-01	Shallow Deletion	736.269	SMAD4: Shallow Deletion
+TCGA-2J-AABA-01	Shallow Deletion	1183.6543	SMAD4: Shallow Deletion
+TCGA-2J-AABE-01	Shallow Deletion	688.3182	SMAD4: Shallow Deletion
+TCGA-2J-AABF-01	Shallow Deletion	1134.9694	SMAD4: Shallow Deletion
+TCGA-2J-AABH-01	Shallow Deletion	916.1498	SMAD4: Shallow Deletion
+TCGA-2J-AABI-01	Shallow Deletion	523.1604	SMAD4: Shallow Deletion
+TCGA-2J-AABK-01	Shallow Deletion	1339.2089	SMAD4: Shallow Deletion
+TCGA-2J-AABR-01	Shallow Deletion	1570.1608	SMAD4: Shallow Deletion
+TCGA-2J-AABT-01	Shallow Deletion	1293.6108	SMAD4: Shallow Deletion
+TCGA-2J-AABV-01	Shallow Deletion	1144.8819	SMAD4: Shallow Deletion
+TCGA-2L-AAQA-01	Shallow Deletion	940.4665	SMAD4: Shallow Deletion
+TCGA-2L-AAQJ-01	Shallow Deletion	1117.3267	SMAD4: Shallow Deletion
+TCGA-2L-AAQL-01	Shallow Deletion	1171.4347	SMAD4: Shallow Deletion
+TCGA-3A-A9I7-01	Shallow Deletion	1453.153	SMAD4: Shallow Deletion
+TCGA-3A-A9I9-01	Shallow Deletion	1208.5836	SMAD4: Shallow Deletion
+TCGA-3A-A9IH-01	Shallow Deletion	943.0568	SMAD4: Shallow Deletion
+TCGA-3E-AAAZ-01	Shallow Deletion	1510.905	SMAD4: Shallow Deletion
+TCGA-F2-A44H-01	Shallow Deletion	1131.9911	SMAD4: Shallow Deletion
+TCGA-F2-A7TX-01	Shallow Deletion	1148.5928	SMAD4: Shallow Deletion
+TCGA-F2-A8YN-01	Shallow Deletion	580.9733	SMAD4: Shallow Deletion
+TCGA-FB-A545-01	Shallow Deletion	559.4247	SMAD4: Shallow Deletion
+TCGA-FB-A5VM-01	Shallow Deletion	406.8858	SMAD4: Shallow Deletion
+TCGA-FB-A78T-01	Shallow Deletion	1113.7037	SMAD4: Shallow Deletion
+TCGA-FB-A7DR-01	Shallow Deletion	1320.5929	SMAD4: Shallow Deletion
+TCGA-FB-AAPQ-01	Shallow Deletion	944.1074	SMAD4: Shallow Deletion
+TCGA-FB-AAPU-01	Shallow Deletion	404.4447	SMAD4: Shallow Deletion
+TCGA-FB-AAPY-01	Shallow Deletion	886.3489	SMAD4: Shallow Deletion
+TCGA-FB-AAQ0-01	Shallow Deletion	621.0923	SMAD4: Shallow Deletion
+TCGA-FB-AAQ2-01	Shallow Deletion	897.6268	SMAD4: Shallow Deletion
+TCGA-FB-AAQ3-01	Shallow Deletion	936.3988	SMAD4: Shallow Deletion
+TCGA-FB-AAQ6-01	Shallow Deletion	651.7559	SMAD4: Shallow Deletion
+TCGA-H6-8124-01	Shallow Deletion	1173.9179	SMAD4: Shallow Deletion
+TCGA-H6-A45N-01	Shallow Deletion	1184.1855	SMAD4: Shallow Deletion
+TCGA-HV-A5A3-01	Shallow Deletion	502.2367	SMAD4: Shallow Deletion
+TCGA-HV-A5A4-01	Shallow Deletion	956.5502	SMAD4: Shallow Deletion
+TCGA-HV-A5A5-01	Shallow Deletion	1379.5783	SMAD4: Shallow Deletion
+TCGA-HV-A7OP-01	Shallow Deletion	882.5332	SMAD4: Shallow Deletion
+TCGA-HV-AA8X-01	Shallow Deletion	695.9153	SMAD4: Shallow Deletion
+TCGA-HZ-7289-01	Shallow Deletion	1174.0721	SMAD4: Shallow Deletion
+TCGA-HZ-7918-01	Shallow Deletion	1583.7996	SMAD4: Shallow Deletion
+TCGA-HZ-7919-01	Shallow Deletion	1344.716	SMAD4: Shallow Deletion
+TCGA-HZ-7925-01	Shallow Deletion	1092.4694	SMAD4: Shallow Deletion
+TCGA-HZ-7926-01	Shallow Deletion	1630.5024	SMAD4: Shallow Deletion
+TCGA-HZ-8001-01	Shallow Deletion	1020.8589	SMAD4: Shallow Deletion
+TCGA-HZ-8005-01	Shallow Deletion	1251.1298	SMAD4: Shallow Deletion
+TCGA-HZ-8315-01	Shallow Deletion	1200.4657	SMAD4: Shallow Deletion
+TCGA-HZ-8636-01	Shallow Deletion	1364.8204	SMAD4: Shallow Deletion
+TCGA-HZ-8637-01	Shallow Deletion	1219.5933	SMAD4: Shallow Deletion
+TCGA-HZ-A49G-01	Shallow Deletion	1249.5788	SMAD4: Shallow Deletion
+TCGA-HZ-A49I-01	Shallow Deletion	1143.7216	SMAD4: Shallow Deletion
+TCGA-HZ-A4BH-01	Shallow Deletion	1206.1435	SMAD4: Shallow Deletion
+TCGA-HZ-A4BK-01	Shallow Deletion	1049.4311	SMAD4: Shallow Deletion
+TCGA-HZ-A77O-01	Shallow Deletion	1045.1351	SMAD4: Shallow Deletion
+TCGA-HZ-A77P-01	Shallow Deletion	1296.8482	SMAD4: Shallow Deletion
+TCGA-HZ-A77Q-01	Shallow Deletion	1094.5946	SMAD4: Shallow Deletion
+TCGA-HZ-A8P0-01	Shallow Deletion	794.5664	SMAD4: Shallow Deletion
+TCGA-HZ-A8P1-01	Shallow Deletion	531.9222	SMAD4: Shallow Deletion
+TCGA-HZ-A9TJ-01	Shallow Deletion	492.5713	SMAD4: Shallow Deletion
+TCGA-IB-7644-01	Shallow Deletion	707.4018	SMAD4: Shallow Deletion
+TCGA-IB-7647-01	Shallow Deletion	838.7245	SMAD4: Shallow Deletion
+TCGA-IB-7649-01	Shallow Deletion	1692.9135	SMAD4: Shallow Deletion
+TCGA-IB-7652-01	Shallow Deletion	1273.5595	SMAD4: Shallow Deletion
+TCGA-IB-7654-01	Shallow Deletion	1508.6131	SMAD4: Shallow Deletion
+TCGA-IB-7885-01	Shallow Deletion	1194.8208	SMAD4: Shallow Deletion
+TCGA-IB-7889-01	Shallow Deletion	1295.8467	SMAD4: Shallow Deletion
+TCGA-IB-7890-01	Shallow Deletion	1539.991	SMAD4: Shallow Deletion
+TCGA-IB-8126-01	Shallow Deletion	1808.9804	SMAD4: Shallow Deletion
+TCGA-IB-8127-01	Shallow Deletion	998.9044	SMAD4: Shallow Deletion
+TCGA-IB-A5SO-01	Shallow Deletion	1279.3375	SMAD4: Shallow Deletion
+TCGA-IB-A5SP-01	Shallow Deletion	942.3668	SMAD4: Shallow Deletion
+TCGA-IB-A5SQ-01	Shallow Deletion	1425.9617	SMAD4: Shallow Deletion
+TCGA-IB-A5SS-01	Shallow Deletion	1165.2756	SMAD4: Shallow Deletion
+TCGA-IB-A6UF-01	Shallow Deletion	1141.3084	SMAD4: Shallow Deletion
+TCGA-IB-A6UG-01	Shallow Deletion	1439.6734	SMAD4: Shallow Deletion
+TCGA-IB-A7LX-01	Shallow Deletion	1360.6118	SMAD4: Shallow Deletion
+TCGA-IB-AAUM-01	Shallow Deletion	1815.5054	SMAD4: Shallow Deletion
+TCGA-IB-AAUN-01	Shallow Deletion	854.9747	SMAD4: Shallow Deletion
+TCGA-IB-AAUP-01	Shallow Deletion	1406.7904	SMAD4: Shallow Deletion
+TCGA-IB-AAUQ-01	Shallow Deletion	1151.7857	SMAD4: Shallow Deletion
+TCGA-IB-AAUU-01	Shallow Deletion	815.1214	SMAD4: Shallow Deletion
+TCGA-LB-A7SX-01	Shallow Deletion	975.6465	SMAD4: Shallow Deletion
+TCGA-PZ-A5RE-01	Shallow Deletion	844.9388	SMAD4: Shallow Deletion
+TCGA-RB-AA9M-01	Shallow Deletion	1362.1545	SMAD4: Shallow Deletion
+TCGA-S4-A8RM-01	Shallow Deletion	1102.2869	SMAD4: Shallow Deletion
+TCGA-S4-A8RP-01	Shallow Deletion	1033.0175	SMAD4: Shallow Deletion
+TCGA-US-A774-01	Shallow Deletion	1243.2547	SMAD4: Shallow Deletion
+TCGA-US-A776-01	Shallow Deletion	1421.3621	SMAD4: Shallow Deletion
+TCGA-US-A77G-01	Shallow Deletion	1057.508	SMAD4: Shallow Deletion
+TCGA-XD-AAUG-01	Shallow Deletion	1595.2838	SMAD4: Shallow Deletion
+TCGA-XD-AAUI-01	Shallow Deletion	1154.5319	SMAD4: Shallow Deletion
+TCGA-XD-AAUL-01	Shallow Deletion	1157.2765	SMAD4: Shallow Deletion
+TCGA-XN-A8T3-01	Shallow Deletion	1369.288	SMAD4: Shallow Deletion
+TCGA-YB-A89D-01	Shallow Deletion	1202.4358	SMAD4: Shallow Deletion
+TCGA-YH-A8SY-01	Shallow Deletion	859.229	SMAD4: Shallow Deletion
+TCGA-2J-AAB1-01	Diploid	1508.8146	SMAD4: Diploid
+TCGA-2J-AAB9-01	Diploid	1341.9078	SMAD4: Diploid
+TCGA-3A-A9I5-01	Diploid	1445.3782	SMAD4: Diploid
+TCGA-3A-A9IC-01	Diploid	1122.9136	SMAD4: Diploid
+TCGA-3A-A9IX-01	Diploid	1661.6682	SMAD4: Diploid
+TCGA-3E-AAAY-01	Diploid	1335.8264	SMAD4: Diploid
+TCGA-F2-6880-01	Diploid	1781.1353	SMAD4: Diploid
+TCGA-F2-7273-01	Diploid	1985.9987	SMAD4: Diploid
+TCGA-F2-7276-01	Diploid	2032.9169	SMAD4: Diploid
+TCGA-FB-A4P5-01	Diploid	1465.0445	SMAD4: Diploid
+TCGA-FB-AAPS-01	Diploid	1462.2414	SMAD4: Diploid
+TCGA-HV-AA8V-01	Diploid	1452.9583	SMAD4: Diploid
+TCGA-HZ-7920-01	Diploid	2032.7509	SMAD4: Diploid
+TCGA-HZ-7922-01	Diploid	2017.4561	SMAD4: Diploid
+TCGA-HZ-7923-01	Diploid	1946.6269	SMAD4: Diploid
+TCGA-HZ-7924-01	Diploid	2136.7082	SMAD4: Diploid
+TCGA-HZ-8002-01	Diploid	1976.7986	SMAD4: Diploid
+TCGA-HZ-8003-01	Diploid	1734.6146	SMAD4: Diploid
+TCGA-HZ-8317-01	Diploid	1712.3589	SMAD4: Diploid
+TCGA-HZ-8519-01	Diploid	2061.9188	SMAD4: Diploid
+TCGA-HZ-8638-01	Diploid	2238.991	SMAD4: Diploid
+TCGA-HZ-A49H-01	Diploid	1446.384	SMAD4: Diploid
+TCGA-IB-7645-01	Diploid	1626.6112	SMAD4: Diploid
+TCGA-IB-7646-01	Diploid	1396.7462	SMAD4: Diploid
+TCGA-IB-7651-01	Diploid	1646.6142	SMAD4: Diploid
+TCGA-IB-7888-01	Diploid	1417.5894	SMAD4: Diploid
+TCGA-IB-7897-01	Diploid	2075.9306	SMAD4: Diploid
+TCGA-IB-A5ST-01	Diploid	1125.0677	SMAD4: Diploid
+TCGA-IB-AAUO-01	Diploid	1153.9426	SMAD4: Diploid
+TCGA-IB-AAUR-01	Diploid	1411.7538	SMAD4: Diploid
+TCGA-IB-AAUS-01	Diploid	1216.9427	SMAD4: Diploid
+TCGA-IB-AAUT-01	Diploid	1709.4498	SMAD4: Diploid
+TCGA-IB-AAUV-01	Diploid	1796.5756	SMAD4: Diploid
+TCGA-IB-AAUW-01	Diploid	1864.9941	SMAD4: Diploid
+TCGA-LB-A8F3-01	Diploid	1297.5279	SMAD4: Diploid
+TCGA-LB-A9Q5-01	Diploid	1264.6358	SMAD4: Diploid
+TCGA-Q3-A5QY-01	Diploid	1258.9256	SMAD4: Diploid
+TCGA-RB-A7B8-01	Diploid	1351.129	SMAD4: Diploid
+TCGA-RL-AAAS-01	Diploid	1418.0064	SMAD4: Diploid
+TCGA-US-A779-01	Diploid	1239.8422	SMAD4: Diploid
+TCGA-US-A77E-01	Diploid	1688.6463	SMAD4: Diploid
+TCGA-US-A77J-01	Diploid	1255.268	SMAD4: Diploid
+TCGA-XD-AAUH-01	Diploid	1664.4144	SMAD4: Diploid
+TCGA-XN-A8T5-01	Diploid	1215.1371	SMAD4: Diploid
+TCGA-Z5-AAPL-01	Diploid	1261.0427	SMAD4: Diploid
+TCGA-FB-AAPP-01	Gain	2004.208	SMAD4: Gain
+TCGA-FB-AAQ1-01	Gain	1568.3238	SMAD4: Gain
+TCGA-YY-A8LH-01	Gain	1224.1208	SMAD4: Gain

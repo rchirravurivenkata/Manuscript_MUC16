@@ -1,0 +1,169 @@
+Sample Id	TP53: Putative copy-number alterations from GISTIC	TP53: mRNA expression (RNA Seq V2 RSEM)	Copy Number Alterations
+TCGA-IB-7891-01	Deep Deletion	1204.2457	TP53: Deep Deletion
+TCGA-2J-AAB4-01	Shallow Deletion	1044.1919	TP53: Shallow Deletion
+TCGA-2J-AABE-01	Shallow Deletion	1047.0171	TP53: Shallow Deletion
+TCGA-2J-AABH-01	Shallow Deletion	562.7178	TP53: Shallow Deletion
+TCGA-2J-AABI-01	Shallow Deletion	493.106	TP53: Shallow Deletion
+TCGA-2J-AABK-01	Shallow Deletion	1336.1995	TP53: Shallow Deletion
+TCGA-2J-AABO-01	Shallow Deletion	1176.2821	TP53: Shallow Deletion
+TCGA-2J-AABT-01	Shallow Deletion	588.8611	TP53: Shallow Deletion
+TCGA-2J-AABU-01	Shallow Deletion	873.3624	TP53: Shallow Deletion
+TCGA-2L-AAQA-01	Shallow Deletion	1019.1032	TP53: Shallow Deletion
+TCGA-2L-AAQE-01	Shallow Deletion	956.4411	TP53: Shallow Deletion
+TCGA-2L-AAQI-01	Shallow Deletion	1178.6769	TP53: Shallow Deletion
+TCGA-2L-AAQJ-01	Shallow Deletion	1113.3663	TP53: Shallow Deletion
+TCGA-2L-AAQL-01	Shallow Deletion	990.3184	TP53: Shallow Deletion
+TCGA-3A-A9I9-01	Shallow Deletion	955.8074	TP53: Shallow Deletion
+TCGA-3A-A9IB-01	Shallow Deletion	901.3403	TP53: Shallow Deletion
+TCGA-3A-A9IC-01	Shallow Deletion	612.8395	TP53: Shallow Deletion
+TCGA-3A-A9IH-01	Shallow Deletion	900.9776	TP53: Shallow Deletion
+TCGA-3A-A9IU-01	Shallow Deletion	477.1529	TP53: Shallow Deletion
+TCGA-3A-A9IZ-01	Shallow Deletion	588.8476	TP53: Shallow Deletion
+TCGA-3A-A9J0-01	Shallow Deletion	504.357	TP53: Shallow Deletion
+TCGA-F2-6879-01	Shallow Deletion	1149.8822	TP53: Shallow Deletion
+TCGA-F2-A44G-01	Shallow Deletion	613.1347	TP53: Shallow Deletion
+TCGA-F2-A7TX-01	Shallow Deletion	1318.3817	TP53: Shallow Deletion
+TCGA-F2-A8YN-01	Shallow Deletion	390.8966	TP53: Shallow Deletion
+TCGA-FB-A545-01	Shallow Deletion	963.6639	TP53: Shallow Deletion
+TCGA-FB-A78T-01	Shallow Deletion	1000	TP53: Shallow Deletion
+TCGA-FB-AAPP-01	Shallow Deletion	1720.7442	TP53: Shallow Deletion
+TCGA-FB-AAPQ-01	Shallow Deletion	326.6683	TP53: Shallow Deletion
+TCGA-FB-AAPS-01	Shallow Deletion	1153.7931	TP53: Shallow Deletion
+TCGA-FB-AAPY-01	Shallow Deletion	820.6934	TP53: Shallow Deletion
+TCGA-FB-AAPZ-01	Shallow Deletion	680.6662	TP53: Shallow Deletion
+TCGA-FB-AAQ0-01	Shallow Deletion	963.9068	TP53: Shallow Deletion
+TCGA-FB-AAQ1-01	Shallow Deletion	643.0177	TP53: Shallow Deletion
+TCGA-FB-AAQ2-01	Shallow Deletion	1502.094	TP53: Shallow Deletion
+TCGA-FB-AAQ3-01	Shallow Deletion	352.933	TP53: Shallow Deletion
+TCGA-FB-AAQ6-01	Shallow Deletion	1124.8826	TP53: Shallow Deletion
+TCGA-H6-8124-01	Shallow Deletion	895.0923	TP53: Shallow Deletion
+TCGA-H8-A6C1-01	Shallow Deletion	1037.1767	TP53: Shallow Deletion
+TCGA-HV-A5A3-01	Shallow Deletion	946.0738	TP53: Shallow Deletion
+TCGA-HV-A5A6-01	Shallow Deletion	479.6574	TP53: Shallow Deletion
+TCGA-HV-A7OL-01	Shallow Deletion	1235.9827	TP53: Shallow Deletion
+TCGA-HV-AA8X-01	Shallow Deletion	912.4703	TP53: Shallow Deletion
+TCGA-HZ-7289-01	Shallow Deletion	1665.9697	TP53: Shallow Deletion
+TCGA-HZ-7919-01	Shallow Deletion	373.1284	TP53: Shallow Deletion
+TCGA-HZ-7922-01	Shallow Deletion	542.6124	TP53: Shallow Deletion
+TCGA-HZ-8001-01	Shallow Deletion	1147.6483	TP53: Shallow Deletion
+TCGA-HZ-8005-01	Shallow Deletion	516.1708	TP53: Shallow Deletion
+TCGA-HZ-8315-01	Shallow Deletion	1000	TP53: Shallow Deletion
+TCGA-HZ-8636-01	Shallow Deletion	1158.0879	TP53: Shallow Deletion
+TCGA-HZ-A49I-01	Shallow Deletion	1222.3903	TP53: Shallow Deletion
+TCGA-HZ-A4BH-01	Shallow Deletion	1163.4269	TP53: Shallow Deletion
+TCGA-HZ-A4BK-01	Shallow Deletion	1169.2382	TP53: Shallow Deletion
+TCGA-HZ-A77O-01	Shallow Deletion	1559.9527	TP53: Shallow Deletion
+TCGA-HZ-A77Q-01	Shallow Deletion	963.5723	TP53: Shallow Deletion
+TCGA-HZ-A9TJ-01	Shallow Deletion	1163.843	TP53: Shallow Deletion
+TCGA-IB-7644-01	Shallow Deletion	1018.0982	TP53: Shallow Deletion
+TCGA-IB-7646-01	Shallow Deletion	1529.4416	TP53: Shallow Deletion
+TCGA-IB-7652-01	Shallow Deletion	1307.9777	TP53: Shallow Deletion
+TCGA-IB-7654-01	Shallow Deletion	1505.74	TP53: Shallow Deletion
+TCGA-IB-7886-01	Shallow Deletion	533.0475	TP53: Shallow Deletion
+TCGA-IB-7887-01	Shallow Deletion	1143.5579	TP53: Shallow Deletion
+TCGA-IB-7888-01	Shallow Deletion	794.7166	TP53: Shallow Deletion
+TCGA-IB-7889-01	Shallow Deletion	1020.1895	TP53: Shallow Deletion
+TCGA-IB-7893-01	Shallow Deletion	889.4303	TP53: Shallow Deletion
+TCGA-IB-8127-01	Shallow Deletion	847.2447	TP53: Shallow Deletion
+TCGA-IB-A5SP-01	Shallow Deletion	1010.7266	TP53: Shallow Deletion
+TCGA-IB-A5SS-01	Shallow Deletion	1271.8474	TP53: Shallow Deletion
+TCGA-IB-A6UF-01	Shallow Deletion	681.3177	TP53: Shallow Deletion
+TCGA-IB-A7M4-01	Shallow Deletion	2134.9226	TP53: Shallow Deletion
+TCGA-IB-AAUN-01	Shallow Deletion	1112.9848	TP53: Shallow Deletion
+TCGA-IB-AAUO-01	Shallow Deletion	1376.7628	TP53: Shallow Deletion
+TCGA-IB-AAUU-01	Shallow Deletion	349.3822	TP53: Shallow Deletion
+TCGA-LB-A7SX-01	Shallow Deletion	237.9682	TP53: Shallow Deletion
+TCGA-M8-A5N4-01	Shallow Deletion	1022.4009	TP53: Shallow Deletion
+TCGA-OE-A75W-01	Shallow Deletion	491.5591	TP53: Shallow Deletion
+TCGA-PZ-A5RE-01	Shallow Deletion	997.7612	TP53: Shallow Deletion
+TCGA-Q3-AA2A-01	Shallow Deletion	1159.3367	TP53: Shallow Deletion
+TCGA-S4-A8RM-01	Shallow Deletion	745.9459	TP53: Shallow Deletion
+TCGA-S4-A8RO-01	Shallow Deletion	1192.6333	TP53: Shallow Deletion
+TCGA-US-A779-01	Shallow Deletion	415.128	TP53: Shallow Deletion
+TCGA-US-A77G-01	Shallow Deletion	181.1958	TP53: Shallow Deletion
+TCGA-XD-AAUI-01	Shallow Deletion	1172.3626	TP53: Shallow Deletion
+TCGA-XD-AAUL-01	Shallow Deletion	808.7318	TP53: Shallow Deletion
+TCGA-XN-A8T3-01	Shallow Deletion	1146.6245	TP53: Shallow Deletion
+TCGA-YH-A8SY-01	Shallow Deletion	1113.9019	TP53: Shallow Deletion
+TCGA-YY-A8LH-01	Shallow Deletion	132.2897	TP53: Shallow Deletion
+TCGA-2J-AAB1-01	Diploid	1388.2927	TP53: Diploid
+TCGA-2J-AAB6-01	Diploid	1241.5205	TP53: Diploid
+TCGA-2J-AAB8-01	Diploid	754.8766	TP53: Diploid
+TCGA-2J-AAB9-01	Diploid	886.388	TP53: Diploid
+TCGA-2J-AABA-01	Diploid	1827.462	TP53: Diploid
+TCGA-2J-AABF-01	Diploid	750.2436	TP53: Diploid
+TCGA-2J-AABR-01	Diploid	1290.0433	TP53: Diploid
+TCGA-2J-AABV-01	Diploid	1138.5827	TP53: Diploid
+TCGA-3A-A9I7-01	Diploid	1155.1141	TP53: Diploid
+TCGA-3A-A9IX-01	Diploid	963.3486	TP53: Diploid
+TCGA-3E-AAAY-01	Diploid	657.2404	TP53: Diploid
+TCGA-3E-AAAZ-01	Diploid	600.2244	TP53: Diploid
+TCGA-F2-6880-01	Diploid	924.2099	TP53: Diploid
+TCGA-F2-7273-01	Diploid	1025.1497	TP53: Diploid
+TCGA-F2-7276-01	Diploid	1145.3449	TP53: Diploid
+TCGA-F2-A44H-01	Diploid	1495.5257	TP53: Diploid
+TCGA-FB-A4P5-01	Diploid	956.6007	TP53: Diploid
+TCGA-FB-A5VM-01	Diploid	1586.3328	TP53: Diploid
+TCGA-FB-A7DR-01	Diploid	1302.4741	TP53: Diploid
+TCGA-FB-AAPU-01	Diploid	2036.4909	TP53: Diploid
+TCGA-H6-A45N-01	Diploid	1170.6937	TP53: Diploid
+TCGA-HV-A5A4-01	Diploid	1858.6781	TP53: Diploid
+TCGA-HV-A5A5-01	Diploid	1166.9555	TP53: Diploid
+TCGA-HV-A7OP-01	Diploid	2833.5036	TP53: Diploid
+TCGA-HV-AA8V-01	Diploid	1272.5509	TP53: Diploid
+TCGA-HZ-7918-01	Diploid	1373.4151	TP53: Diploid
+TCGA-HZ-7920-01	Diploid	885.3718	TP53: Diploid
+TCGA-HZ-7923-01	Diploid	938.3698	TP53: Diploid
+TCGA-HZ-7924-01	Diploid	1143.8903	TP53: Diploid
+TCGA-HZ-7925-01	Diploid	883.9034	TP53: Diploid
+TCGA-HZ-7926-01	Diploid	585.8858	TP53: Diploid
+TCGA-HZ-8002-01	Diploid	908.3779	TP53: Diploid
+TCGA-HZ-8003-01	Diploid	1013.1096	TP53: Diploid
+TCGA-HZ-8317-01	Diploid	868.1025	TP53: Diploid
+TCGA-HZ-8519-01	Diploid	869.7343	TP53: Diploid
+TCGA-HZ-8637-01	Diploid	1297.7906	TP53: Diploid
+TCGA-HZ-8638-01	Diploid	920.4492	TP53: Diploid
+TCGA-HZ-A49G-01	Diploid	1117.6149	TP53: Diploid
+TCGA-HZ-A49H-01	Diploid	1016.9022	TP53: Diploid
+TCGA-HZ-A77P-01	Diploid	759.9693	TP53: Diploid
+TCGA-HZ-A8P0-01	Diploid	1112.3929	TP53: Diploid
+TCGA-HZ-A8P1-01	Diploid	2216.7665	TP53: Diploid
+TCGA-IB-7645-01	Diploid	819.1268	TP53: Diploid
+TCGA-IB-7647-01	Diploid	1171.7198	TP53: Diploid
+TCGA-IB-7649-01	Diploid	839.3465	TP53: Diploid
+TCGA-IB-7651-01	Diploid	531.3603	TP53: Diploid
+TCGA-IB-7885-01	Diploid	1197.6168	TP53: Diploid
+TCGA-IB-7890-01	Diploid	546.2633	TP53: Diploid
+TCGA-IB-7897-01	Diploid	693.1695	TP53: Diploid
+TCGA-IB-8126-01	Diploid	694.392	TP53: Diploid
+TCGA-IB-A5SO-01	Diploid	757.8458	TP53: Diploid
+TCGA-IB-A5SQ-01	Diploid	1541.5193	TP53: Diploid
+TCGA-IB-A5ST-01	Diploid	1216.6885	TP53: Diploid
+TCGA-IB-A6UG-01	Diploid	1426.2536	TP53: Diploid
+TCGA-IB-A7LX-01	Diploid	2053.5804	TP53: Diploid
+TCGA-IB-AAUM-01	Diploid	1126.1649	TP53: Diploid
+TCGA-IB-AAUP-01	Diploid	1273.3445	TP53: Diploid
+TCGA-IB-AAUQ-01	Diploid	857.7806	TP53: Diploid
+TCGA-IB-AAUR-01	Diploid	1619.477	TP53: Diploid
+TCGA-IB-AAUS-01	Diploid	987.7511	TP53: Diploid
+TCGA-IB-AAUT-01	Diploid	1224.2823	TP53: Diploid
+TCGA-IB-AAUV-01	Diploid	857.5569	TP53: Diploid
+TCGA-IB-AAUW-01	Diploid	1069.2096	TP53: Diploid
+TCGA-LB-A9Q5-01	Diploid	767.2985	TP53: Diploid
+TCGA-Q3-A5QY-01	Diploid	1493.4025	TP53: Diploid
+TCGA-RB-A7B8-01	Diploid	1554.9582	TP53: Diploid
+TCGA-RB-AA9M-01	Diploid	985.4077	TP53: Diploid
+TCGA-RL-AAAS-01	Diploid	1554.1265	TP53: Diploid
+TCGA-S4-A8RP-01	Diploid	1262.0434	TP53: Diploid
+TCGA-US-A774-01	Diploid	1055.1579	TP53: Diploid
+TCGA-US-A776-01	Diploid	2234.6889	TP53: Diploid
+TCGA-US-A77E-01	Diploid	477.7293	TP53: Diploid
+TCGA-US-A77J-01	Diploid	1407.43	TP53: Diploid
+TCGA-XD-AAUG-01	Diploid	842.5676	TP53: Diploid
+TCGA-XD-AAUH-01	Diploid	1037.4805	TP53: Diploid
+TCGA-XN-A8T5-01	Diploid	1062.5745	TP53: Diploid
+TCGA-YB-A89D-01	Diploid	630.5242	TP53: Diploid
+TCGA-Z5-AAPL-01	Diploid	1401.1396	TP53: Diploid
+TCGA-3A-A9I5-01	Gain	1827.1309	TP53: Gain
+TCGA-L1-A7W4-01	Gain	509.6657	TP53: Gain
+TCGA-LB-A8F3-01	Gain	2530.9645	TP53: Gain

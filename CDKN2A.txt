@@ -1,0 +1,169 @@
+Sample Id	CDKN2A: Putative copy-number alterations from GISTIC	CDKN2A: mRNA expression (RNA Seq V2 RSEM)	Copy Number Alterations
+TCGA-2J-AAB1-01	Deep Deletion	67.3171	CDKN2A: Deep Deletion
+TCGA-2J-AAB6-01	Deep Deletion	22.807	CDKN2A: Deep Deletion
+TCGA-2J-AABA-01	Deep Deletion	25.6772	CDKN2A: Deep Deletion
+TCGA-2J-AABO-01	Deep Deletion	29.6474	CDKN2A: Deep Deletion
+TCGA-2J-AABT-01	Deep Deletion	32.5407	CDKN2A: Deep Deletion
+TCGA-2J-AABU-01	Deep Deletion	26.2009	CDKN2A: Deep Deletion
+TCGA-2L-AAQI-01	Deep Deletion	31.5804	CDKN2A: Deep Deletion
+TCGA-2L-AAQL-01	Deep Deletion	148.1273	CDKN2A: Deep Deletion
+TCGA-3A-A9IZ-01	Deep Deletion	8.1784	CDKN2A: Deep Deletion
+TCGA-3A-A9J0-01	Deep Deletion	29.5749	CDKN2A: Deep Deletion
+TCGA-F2-A44G-01	Deep Deletion	3.8631	CDKN2A: Deep Deletion
+TCGA-FB-A5VM-01	Deep Deletion	28.169	CDKN2A: Deep Deletion
+TCGA-FB-AAPP-01	Deep Deletion	0.6955	CDKN2A: Deep Deletion
+TCGA-FB-AAPU-01	Deep Deletion	9.7619	CDKN2A: Deep Deletion
+TCGA-FB-AAPZ-01	Deep Deletion	20.9993	CDKN2A: Deep Deletion
+TCGA-FB-AAQ0-01	Deep Deletion	10.6574	CDKN2A: Deep Deletion
+TCGA-FB-AAQ3-01	Deep Deletion	63.8283	CDKN2A: Deep Deletion
+TCGA-H8-A6C1-01	Deep Deletion	24.2457	CDKN2A: Deep Deletion
+TCGA-HV-A5A3-01	Deep Deletion	4.672	CDKN2A: Deep Deletion
+TCGA-HV-A5A4-01	Deep Deletion	37.6142	CDKN2A: Deep Deletion
+TCGA-HV-AA8V-01	Deep Deletion	26.1882	CDKN2A: Deep Deletion
+TCGA-HZ-7919-01	Deep Deletion	17.8246	CDKN2A: Deep Deletion
+TCGA-HZ-7922-01	Deep Deletion	13.7045	CDKN2A: Deep Deletion
+TCGA-HZ-8315-01	Deep Deletion	27.641	CDKN2A: Deep Deletion
+TCGA-HZ-8636-01	Deep Deletion	36.3541	CDKN2A: Deep Deletion
+TCGA-HZ-A49I-01	Deep Deletion	49.5118	CDKN2A: Deep Deletion
+TCGA-HZ-A4BK-01	Deep Deletion	28.4474	CDKN2A: Deep Deletion
+TCGA-HZ-A77Q-01	Deep Deletion	28.2021	CDKN2A: Deep Deletion
+TCGA-IB-7646-01	Deep Deletion	11.1675	CDKN2A: Deep Deletion
+TCGA-IB-7887-01	Deep Deletion	24.1745	CDKN2A: Deep Deletion
+TCGA-IB-7890-01	Deep Deletion	17.423	CDKN2A: Deep Deletion
+TCGA-IB-7893-01	Deep Deletion	44.6027	CDKN2A: Deep Deletion
+TCGA-IB-A6UF-01	Deep Deletion	17.828	CDKN2A: Deep Deletion
+TCGA-IB-A7LX-01	Deep Deletion	12.8578	CDKN2A: Deep Deletion
+TCGA-IB-AAUO-01	Deep Deletion	53.6146	CDKN2A: Deep Deletion
+TCGA-IB-AAUU-01	Deep Deletion	18.3213	CDKN2A: Deep Deletion
+TCGA-LB-A7SX-01	Deep Deletion	18.0912	CDKN2A: Deep Deletion
+TCGA-LB-A8F3-01	Deep Deletion	69.0355	CDKN2A: Deep Deletion
+TCGA-PZ-A5RE-01	Deep Deletion	41.6421	CDKN2A: Deep Deletion
+TCGA-RB-A7B8-01	Deep Deletion	47.1924	CDKN2A: Deep Deletion
+TCGA-S4-A8RM-01	Deep Deletion	17.0478	CDKN2A: Deep Deletion
+TCGA-S4-A8RP-01	Deep Deletion	70.4076	CDKN2A: Deep Deletion
+TCGA-US-A779-01	Deep Deletion	15.1139	CDKN2A: Deep Deletion
+TCGA-US-A77E-01	Deep Deletion	33.1878	CDKN2A: Deep Deletion
+TCGA-XD-AAUI-01	Deep Deletion	63.3977	CDKN2A: Deep Deletion
+TCGA-XD-AAUL-01	Deep Deletion	14.1372	CDKN2A: Deep Deletion
+TCGA-XN-A8T3-01	Deep Deletion	27.4262	CDKN2A: Deep Deletion
+TCGA-YH-A8SY-01	Deep Deletion	57.243	CDKN2A: Deep Deletion
+TCGA-2J-AABE-01	Shallow Deletion	53.0291	CDKN2A: Shallow Deletion
+TCGA-2J-AABF-01	Shallow Deletion	223.9745	CDKN2A: Shallow Deletion
+TCGA-2J-AABH-01	Shallow Deletion	618.9024	CDKN2A: Shallow Deletion
+TCGA-2J-AABI-01	Shallow Deletion	1469.1582	CDKN2A: Shallow Deletion
+TCGA-2L-AAQA-01	Shallow Deletion	446.8128	CDKN2A: Shallow Deletion
+TCGA-2L-AAQE-01	Shallow Deletion	1417.0528	CDKN2A: Shallow Deletion
+TCGA-2L-AAQJ-01	Shallow Deletion	1925.2475	CDKN2A: Shallow Deletion
+TCGA-3A-A9I5-01	Shallow Deletion	234.6939	CDKN2A: Shallow Deletion
+TCGA-3A-A9I9-01	Shallow Deletion	100.2833	CDKN2A: Shallow Deletion
+TCGA-3A-A9IB-01	Shallow Deletion	2015.1164	CDKN2A: Shallow Deletion
+TCGA-3A-A9IH-01	Shallow Deletion	1794.5988	CDKN2A: Shallow Deletion
+TCGA-3A-A9IU-01	Shallow Deletion	328.6467	CDKN2A: Shallow Deletion
+TCGA-3A-A9IX-01	Shallow Deletion	264.2164	CDKN2A: Shallow Deletion
+TCGA-3E-AAAZ-01	Shallow Deletion	138.3695	CDKN2A: Shallow Deletion
+TCGA-F2-6879-01	Shallow Deletion	309.1873	CDKN2A: Shallow Deletion
+TCGA-F2-A44H-01	Shallow Deletion	27.9642	CDKN2A: Shallow Deletion
+TCGA-F2-A8YN-01	Shallow Deletion	1117.0681	CDKN2A: Shallow Deletion
+TCGA-FB-A545-01	Shallow Deletion	1859.1976	CDKN2A: Shallow Deletion
+TCGA-FB-A78T-01	Shallow Deletion	1251.7686	CDKN2A: Shallow Deletion
+TCGA-FB-A7DR-01	Shallow Deletion	13.2254	CDKN2A: Shallow Deletion
+TCGA-FB-AAPQ-01	Shallow Deletion	347.3095	CDKN2A: Shallow Deletion
+TCGA-FB-AAPS-01	Shallow Deletion	200	CDKN2A: Shallow Deletion
+TCGA-FB-AAPY-01	Shallow Deletion	680.39	CDKN2A: Shallow Deletion
+TCGA-FB-AAQ1-01	Shallow Deletion	2101.4239	CDKN2A: Shallow Deletion
+TCGA-FB-AAQ2-01	Shallow Deletion	818.9856	CDKN2A: Shallow Deletion
+TCGA-FB-AAQ6-01	Shallow Deletion	538.0282	CDKN2A: Shallow Deletion
+TCGA-H6-8124-01	Shallow Deletion	1221.3294	CDKN2A: Shallow Deletion
+TCGA-HV-A5A6-01	Shallow Deletion	1511.242	CDKN2A: Shallow Deletion
+TCGA-HV-A7OL-01	Shallow Deletion	375.8472	CDKN2A: Shallow Deletion
+TCGA-HV-AA8X-01	Shallow Deletion	265.831	CDKN2A: Shallow Deletion
+TCGA-HZ-7289-01	Shallow Deletion	702.0387	CDKN2A: Shallow Deletion
+TCGA-HZ-7918-01	Shallow Deletion	24.9489	CDKN2A: Shallow Deletion
+TCGA-HZ-7925-01	Shallow Deletion	58.3621	CDKN2A: Shallow Deletion
+TCGA-HZ-8005-01	Shallow Deletion	2176.8003	CDKN2A: Shallow Deletion
+TCGA-HZ-8637-01	Shallow Deletion	105.3474	CDKN2A: Shallow Deletion
+TCGA-HZ-A49G-01	Shallow Deletion	46.4989	CDKN2A: Shallow Deletion
+TCGA-HZ-A4BH-01	Shallow Deletion	1090.9527	CDKN2A: Shallow Deletion
+TCGA-HZ-A77O-01	Shallow Deletion	2311.6972	CDKN2A: Shallow Deletion
+TCGA-HZ-A8P0-01	Shallow Deletion	151.5993	CDKN2A: Shallow Deletion
+TCGA-HZ-A8P1-01	Shallow Deletion	74.2515	CDKN2A: Shallow Deletion
+TCGA-HZ-A9TJ-01	Shallow Deletion	2447.3922	CDKN2A: Shallow Deletion
+TCGA-IB-7645-01	Shallow Deletion	88.1497	CDKN2A: Shallow Deletion
+TCGA-IB-7647-01	Shallow Deletion	153.4239	CDKN2A: Shallow Deletion
+TCGA-IB-7649-01	Shallow Deletion	191.9673	CDKN2A: Shallow Deletion
+TCGA-IB-7652-01	Shallow Deletion	93.2945	CDKN2A: Shallow Deletion
+TCGA-IB-7654-01	Shallow Deletion	204.1576	CDKN2A: Shallow Deletion
+TCGA-IB-7885-01	Shallow Deletion	32.5585	CDKN2A: Shallow Deletion
+TCGA-IB-7886-01	Shallow Deletion	90.0342	CDKN2A: Shallow Deletion
+TCGA-IB-8127-01	Shallow Deletion	334.132	CDKN2A: Shallow Deletion
+TCGA-IB-A5SP-01	Shallow Deletion	613.7461	CDKN2A: Shallow Deletion
+TCGA-IB-A5SS-01	Shallow Deletion	315.3999	CDKN2A: Shallow Deletion
+TCGA-IB-A7M4-01	Shallow Deletion	1409.5866	CDKN2A: Shallow Deletion
+TCGA-IB-AAUN-01	Shallow Deletion	305.2277	CDKN2A: Shallow Deletion
+TCGA-L1-A7W4-01	Shallow Deletion	989.8537	CDKN2A: Shallow Deletion
+TCGA-M8-A5N4-01	Shallow Deletion	938.5411	CDKN2A: Shallow Deletion
+TCGA-OE-A75W-01	Shallow Deletion	1479.6425	CDKN2A: Shallow Deletion
+TCGA-Q3-AA2A-01	Shallow Deletion	62.0043	CDKN2A: Shallow Deletion
+TCGA-RB-AA9M-01	Shallow Deletion	462.6609	CDKN2A: Shallow Deletion
+TCGA-US-A77G-01	Shallow Deletion	695.5728	CDKN2A: Shallow Deletion
+TCGA-YY-A8LH-01	Shallow Deletion	746.9959	CDKN2A: Shallow Deletion
+TCGA-2J-AAB4-01	Diploid	1000	CDKN2A: Diploid
+TCGA-2J-AAB8-01	Diploid	434.3126	CDKN2A: Diploid
+TCGA-2J-AAB9-01	Diploid	61.0932	CDKN2A: Diploid
+TCGA-2J-AABK-01	Diploid	455.718	CDKN2A: Diploid
+TCGA-2J-AABR-01	Diploid	37.1058	CDKN2A: Diploid
+TCGA-2J-AABV-01	Diploid	119.685	CDKN2A: Diploid
+TCGA-3A-A9I7-01	Diploid	1079.459	CDKN2A: Diploid
+TCGA-3A-A9IC-01	Diploid	1003.9506	CDKN2A: Diploid
+TCGA-3E-AAAY-01	Diploid	318.3813	CDKN2A: Diploid
+TCGA-F2-6880-01	Diploid	44.1853	CDKN2A: Diploid
+TCGA-F2-7273-01	Diploid	30.0732	CDKN2A: Diploid
+TCGA-F2-7276-01	Diploid	17.4146	CDKN2A: Diploid
+TCGA-F2-A7TX-01	Diploid	174.5822	CDKN2A: Diploid
+TCGA-FB-A4P5-01	Diploid	36.3174	CDKN2A: Diploid
+TCGA-H6-A45N-01	Diploid	78.7217	CDKN2A: Diploid
+TCGA-HV-A5A5-01	Diploid	842.2877	CDKN2A: Diploid
+TCGA-HV-A7OP-01	Diploid	10.2145	CDKN2A: Diploid
+TCGA-HZ-7920-01	Diploid	87.7537	CDKN2A: Diploid
+TCGA-HZ-7923-01	Diploid	46.057	CDKN2A: Diploid
+TCGA-HZ-7924-01	Diploid	11.9701	CDKN2A: Diploid
+TCGA-HZ-7926-01	Diploid	292.1852	CDKN2A: Diploid
+TCGA-HZ-8001-01	Diploid	65.8487	CDKN2A: Diploid
+TCGA-HZ-8002-01	Diploid	210.3387	CDKN2A: Diploid
+TCGA-HZ-8003-01	Diploid	8.3901	CDKN2A: Diploid
+TCGA-HZ-8317-01	Diploid	10.7047	CDKN2A: Diploid
+TCGA-HZ-8519-01	Diploid	76.1907	CDKN2A: Diploid
+TCGA-HZ-8638-01	Diploid	30.049	CDKN2A: Diploid
+TCGA-HZ-A49H-01	Diploid	181.7678	CDKN2A: Diploid
+TCGA-HZ-A77P-01	Diploid	34.5092	CDKN2A: Diploid
+TCGA-IB-7644-01	Diploid	16.8712	CDKN2A: Diploid
+TCGA-IB-7651-01	Diploid	138.2026	CDKN2A: Diploid
+TCGA-IB-7888-01	Diploid	146.3952	CDKN2A: Diploid
+TCGA-IB-7889-01	Diploid	168.1088	CDKN2A: Diploid
+TCGA-IB-7891-01	Diploid	316.9293	CDKN2A: Diploid
+TCGA-IB-7897-01	Diploid	45.1753	CDKN2A: Diploid
+TCGA-IB-8126-01	Diploid	15.7816	CDKN2A: Diploid
+TCGA-IB-A5SO-01	Diploid	61.604	CDKN2A: Diploid
+TCGA-IB-A5SQ-01	Diploid	91.6579	CDKN2A: Diploid
+TCGA-IB-A5ST-01	Diploid	104.8493	CDKN2A: Diploid
+TCGA-IB-A6UG-01	Diploid	536.2542	CDKN2A: Diploid
+TCGA-IB-AAUM-01	Diploid	32.2581	CDKN2A: Diploid
+TCGA-IB-AAUP-01	Diploid	34.3196	CDKN2A: Diploid
+TCGA-IB-AAUQ-01	Diploid	2572.0663	CDKN2A: Diploid
+TCGA-IB-AAUR-01	Diploid	84.3102	CDKN2A: Diploid
+TCGA-IB-AAUS-01	Diploid	161.6854	CDKN2A: Diploid
+TCGA-IB-AAUT-01	Diploid	72.9665	CDKN2A: Diploid
+TCGA-IB-AAUV-01	Diploid	116.3561	CDKN2A: Diploid
+TCGA-IB-AAUW-01	Diploid	190.7196	CDKN2A: Diploid
+TCGA-LB-A9Q5-01	Diploid	398.2644	CDKN2A: Diploid
+TCGA-Q3-A5QY-01	Diploid	77.6484	CDKN2A: Diploid
+TCGA-RL-AAAS-01	Diploid	153.269	CDKN2A: Diploid
+TCGA-S4-A8RO-01	Diploid	593.0438	CDKN2A: Diploid
+TCGA-US-A774-01	Diploid	34.9474	CDKN2A: Diploid
+TCGA-US-A776-01	Diploid	45.5659	CDKN2A: Diploid
+TCGA-US-A77J-01	Diploid	137.028	CDKN2A: Diploid
+TCGA-XD-AAUG-01	Diploid	152.027	CDKN2A: Diploid
+TCGA-XD-AAUH-01	Diploid	362.8319	CDKN2A: Diploid
+TCGA-XN-A8T5-01	Diploid	160.3099	CDKN2A: Diploid
+TCGA-YB-A89D-01	Diploid	1170.6064	CDKN2A: Diploid
+TCGA-Z5-AAPL-01	Diploid	43.3048	CDKN2A: Diploid

@@ -1,0 +1,177 @@
+track_name	MYC	SMAD4	CDKN2A	TP53	SMAD4	CDKN2A	GNAS
+TCGA-IB-7891		homdel_rec		Missense Mutation (putative driver)	Missense Mutation (putative passenger)		
+TCGA-2L-AAQE	amp_rec	homdel_rec		Truncating mutation (putative driver)		Missense Mutation (putative driver)	
+TCGA-OE-A75W	amp_rec	homdel_rec		Truncating mutation (putative driver)		Missense Mutation (putative driver)	
+TCGA-FB-A5VM	amp_rec		homdel_rec	Truncating mutation (putative driver)			
+TCGA-HZ-7922	amp_rec		homdel_rec	Truncating mutation (putative driver)			
+TCGA-IB-7890	amp_rec		homdel_rec	Truncating mutation (putative driver)			
+TCGA-US-A779	amp_rec		homdel_rec	Truncating mutation (putative driver)			
+TCGA-2J-AABH	amp_rec			Truncating mutation (putative driver)			
+TCGA-IB-7886		homdel_rec		Truncating mutation (putative driver)	Truncating mutation (putative driver)	Truncating mutation (putative driver)	
+TCGA-2J-AAB8		homdel_rec		Truncating mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-FB-AAPZ		homdel_rec	homdel_rec	Truncating mutation (putative driver)			
+TCGA-HV-A5A6		homdel_rec		Truncating mutation (putative driver)			
+TCGA-2J-AABI				Truncating mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-FB-AAPY				Truncating mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-IB-7889				Truncating mutation (putative driver)	Missense Mutation (putative driver)	Truncating mutation (putative driver)	
+TCGA-FB-AAPQ				Truncating mutation (putative driver)	Missense Mutation (putative driver)		
+TCGA-LB-A9Q5				Truncating mutation (putative driver)	Missense Mutation (putative passenger)		
+TCGA-IB-AAUU			homdel_rec	Truncating mutation (putative driver)			
+TCGA-LB-A7SX			homdel_rec	Truncating mutation (putative driver)			
+TCGA-2J-AABF				Truncating mutation (putative driver)		Truncating mutation (putative driver)	
+TCGA-IB-A5SO				Truncating mutation (putative driver)			Missense Mutation (putative driver)
+TCGA-2J-AAB9				Truncating mutation (putative driver)			
+TCGA-3E-AAAY				Truncating mutation (putative driver)			
+TCGA-F2-A8YN				Truncating mutation (putative driver)			
+TCGA-HZ-A77P				Truncating mutation (putative driver)			
+TCGA-HZ-7925				Truncating mutation (putative driver)			
+TCGA-IB-7645				Truncating mutation (putative driver)			
+TCGA-IB-7888				Truncating mutation (putative driver)			
+TCGA-RB-AA9M				Truncating mutation (putative driver)			
+TCGA-HZ-8005	amp_rec			splice_rec		Truncating mutation (putative driver)	
+TCGA-IB-7649	amp_rec			splice_rec		Truncating mutation (putative driver)	
+TCGA-3A-A9J0		homdel_rec	homdel_rec	splice_rec			
+TCGA-2L-AAQL			homdel_rec	splice_rec			
+TCGA-HZ-8636			homdel_rec	Inframe Mutation (putative driver)			
+TCGA-IB-A7M4	amp_rec	homdel_rec		Missense Mutation (putative driver)			
+TCGA-S4-A8RO	amp_rec	homdel_rec		Missense Mutation (putative driver)			
+TCGA-HV-A5A3	amp_rec		homdel_rec	Missense Mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-IB-A5SS	amp_rec			Missense Mutation (putative driver)	Truncating mutation (putative driver)	Truncating mutation (putative driver)	
+TCGA-FB-AAQ6	amp_rec			Missense Mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-IB-AAUN	amp_rec			Missense Mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-3A-A9IH	amp_rec			Missense Mutation (putative driver)	Missense Mutation (putative passenger)		
+TCGA-XD-AAUI	amp_rec		homdel_rec	Missense Mutation (putative driver)			
+TCGA-FB-AAQ2	amp_rec			Missense Mutation (putative driver)			
+TCGA-IB-AAUQ	amp_rec			Missense Mutation (putative driver)			
+TCGA-2J-AABO		homdel_rec	homdel_rec	Missense Mutation (putative driver)			
+TCGA-2J-AABU		homdel_rec	homdel_rec	Missense Mutation (putative driver)			
+TCGA-2L-AAQI		homdel_rec	homdel_rec	Missense Mutation (putative driver)			
+TCGA-3A-A9IZ		homdel_rec	homdel_rec	Missense Mutation (putative driver)			
+TCGA-IB-7887		homdel_rec	homdel_rec	Missense Mutation (putative driver)			
+TCGA-IB-7893		homdel_rec	homdel_rec	Missense Mutation (putative driver)			
+TCGA-HV-A7OL		homdel_rec		Missense Mutation (putative driver)		Truncating mutation (putative driver)	
+TCGA-3A-A9IB		homdel_rec		Missense Mutation (putative driver)			
+TCGA-F2-6879		homdel_rec		Missense Mutation (putative driver)			
+TCGA-M8-A5N4		homdel_rec		Missense Mutation (putative driver)			
+TCGA-FB-A78T				Missense Mutation (putative driver)	Truncating mutation (putative driver)	Truncating mutation (putative driver)	
+TCGA-2J-AAB4				Missense Mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-HV-AA8X				Missense Mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-IB-A5SP				Missense Mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-IB-7644				Missense Mutation (putative driver)	Truncating mutation (putative driver)		
+TCGA-HZ-A77Q			homdel_rec	Missense Mutation (putative driver)	Inframe Mutation (putative driver)		
+TCGA-HV-AA8V			homdel_rec	Missense Mutation (putative driver)	Missense Mutation (putative driver)		Missense Mutation (putative driver)
+TCGA-PZ-A5RE			homdel_rec	Missense Mutation (putative driver)	Missense Mutation (putative driver)		
+TCGA-2J-AAB6			homdel_rec	Missense Mutation (putative driver)			
+TCGA-2J-AAB1			homdel_rec	Missense Mutation (putative driver)			Missense Mutation (putative driver)
+TCGA-FB-AAQ0			homdel_rec	Missense Mutation (putative driver)			
+TCGA-HZ-A4BK			homdel_rec	Missense Mutation (putative driver)			
+TCGA-HZ-A49I			homdel_rec	Missense Mutation (putative driver)			
+TCGA-HZ-8315			homdel_rec	Missense Mutation (putative driver)			
+TCGA-IB-A6UF			homdel_rec	Missense Mutation (putative driver)			
+TCGA-IB-7646			homdel_rec	Missense Mutation (putative driver)			
+TCGA-XD-AAUL			homdel_rec	Missense Mutation (putative driver)			
+TCGA-XN-A8T3			homdel_rec	Missense Mutation (putative driver)			
+TCGA-YH-A8SY			homdel_rec	Missense Mutation (putative driver)			
+TCGA-2J-AABK				Missense Mutation (putative driver)		Truncating mutation (putative driver)	
+TCGA-IB-A6UG				Missense Mutation (putative driver)		Truncating mutation (putative driver)	
+TCGA-IB-8127				Missense Mutation (putative driver)		Truncating mutation (putative driver)	
+TCGA-HZ-A4BH				Missense Mutation (putative driver)		Missense Mutation (putative driver)	
+TCGA-HZ-A77O				Missense Mutation (putative driver)		Missense Mutation (putative driver)	
+TCGA-FB-A545				Missense Mutation (putative driver)		Inframe Mutation (putative passenger)	
+TCGA-HZ-A49G				Missense Mutation (putative driver)		Missense Mutation (putative passenger)	
+TCGA-IB-7647				Missense Mutation (putative driver)			
+TCGA-2J-AABR				Missense Mutation (putative driver)			
+TCGA-2J-AABV				Missense Mutation (putative driver)			
+TCGA-2L-AAQA				Missense Mutation (putative driver)			
+TCGA-2L-AAQJ				Missense Mutation (putative driver)			
+TCGA-3A-A9I9				Missense Mutation (putative driver)			
+TCGA-F2-A7TX				Missense Mutation (putative driver)			
+TCGA-FB-AAPS				Missense Mutation (putative driver)			
+TCGA-H6-A45N				Missense Mutation (putative driver)			
+TCGA-H6-8124				Missense Mutation (putative driver)			
+TCGA-HV-A5A5				Missense Mutation (putative driver)			
+TCGA-HZ-A9TJ				Missense Mutation (putative driver)			
+TCGA-HZ-8001				Missense Mutation (putative driver)			
+TCGA-HZ-8003				Missense Mutation (putative driver)			
+TCGA-HZ-8519				Missense Mutation (putative driver)			
+TCGA-HZ-8637				Missense Mutation (putative driver)			
+TCGA-IB-A5ST				Missense Mutation (putative driver)			
+TCGA-IB-7652				Missense Mutation (putative driver)			
+TCGA-US-A774				Missense Mutation (putative driver)			
+TCGA-XD-AAUG				Missense Mutation (putative driver)			
+TCGA-XD-AAUH				Missense Mutation (putative driver)			
+TCGA-XN-A8T5				Missense Mutation (putative driver)			
+TCGA-Z5-AAPL				Missense Mutation (putative driver)			
+TCGA-3A-A9IU		homdel_rec		Missense Mutation (putative passenger)		Truncating mutation (putative driver)	
+TCGA-H8-A6C1	amp_rec	homdel_rec	homdel_rec				
+TCGA-L1-A7W4	amp_rec	homdel_rec					
+TCGA-FB-AAQ3	amp_rec		homdel_rec		Truncating mutation (putative driver)		
+TCGA-3A-A9IX	amp_rec				Missense Mutation (putative driver)		
+TCGA-F2-A44G		homdel_rec	homdel_rec				Missense Mutation (putative passenger)
+TCGA-Q3-AA2A		homdel_rec					
+TCGA-2J-AABA			homdel_rec		Truncating mutation (putative driver)		
+TCGA-HV-A5A4			homdel_rec		Truncating mutation (putative driver)		
+TCGA-S4-A8RM			homdel_rec		Truncating mutation (putative driver)		
+TCGA-S4-A8RP			homdel_rec		Truncating mutation (putative driver)		
+TCGA-2J-AABE					Truncating mutation (putative driver)		
+TCGA-HZ-A8P1					Truncating mutation (putative driver)		
+TCGA-US-A77G					Truncating mutation (putative driver)		
+TCGA-HZ-7919			homdel_rec		Missense Mutation (putative driver)		
+TCGA-YB-A89D					Missense Mutation (putative driver)	Truncating mutation (putative driver)	
+TCGA-IB-7651					Missense Mutation (putative driver)		Missense Mutation (putative passenger)
+TCGA-3E-AAAZ					Missense Mutation (putative driver)		
+TCGA-IB-AAUR					Missense Mutation (putative driver)		
+TCGA-HZ-8317					Missense Mutation (putative passenger)		Missense Mutation (putative driver)
+TCGA-IB-AAUM					Missense Mutation (putative passenger)		
+TCGA-US-A77E			homdel_rec				Missense Mutation (putative driver)
+TCGA-RB-A7B8			homdel_rec				Missense Mutation (putative passenger)
+TCGA-2J-AABT			homdel_rec				
+TCGA-FB-AAPP			homdel_rec				
+TCGA-FB-AAPU			homdel_rec				
+TCGA-FZ-5919			homdel_rec				
+TCGA-FZ-5922			homdel_rec				
+TCGA-FZ-5923			homdel_rec				
+TCGA-IB-A7LX			homdel_rec				
+TCGA-IB-AAUO			homdel_rec				
+TCGA-LB-A8F3			homdel_rec				
+TCGA-HZ-A8P0						Truncating mutation (putative driver)	
+TCGA-HZ-7926						Truncating mutation (putative driver)	
+TCGA-3A-A9I7						Missense Mutation (putative driver)	
+TCGA-IB-AAUT							Missense Mutation (putative driver)
+TCGA-US-A776							Missense Mutation (putative driver)
+TCGA-3A-A9I5							
+TCGA-3A-A9IC							
+TCGA-F2-A44H							
+TCGA-F2-6880							
+TCGA-F2-7273							
+TCGA-F2-7276							
+TCGA-FB-A4P5							
+TCGA-FB-A4P6							
+TCGA-FB-A7DR							
+TCGA-FB-AAQ1							
+TCGA-FZ-5920							
+TCGA-FZ-5921							
+TCGA-FZ-5924							
+TCGA-FZ-5926							
+TCGA-HV-A7OP							
+TCGA-HZ-A49H							
+TCGA-HZ-7289							
+TCGA-HZ-7918							
+TCGA-HZ-7920							
+TCGA-HZ-7923							
+TCGA-HZ-7924							
+TCGA-HZ-8002							
+TCGA-HZ-8638							
+TCGA-IB-A5SQ							
+TCGA-IB-AAUP							
+TCGA-IB-AAUS							
+TCGA-IB-AAUV							
+TCGA-IB-AAUW							
+TCGA-IB-7654							
+TCGA-IB-7885							
+TCGA-IB-7897							
+TCGA-IB-8126							
+TCGA-Q3-A5QY							
+TCGA-RL-AAAS							
+TCGA-US-A77J							
+TCGA-YY-A8LH							
